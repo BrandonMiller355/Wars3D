@@ -1,0 +1,50 @@
+Title Ideas:
+Wars3D
+
+General Ideas:
+	-Ideally print clear bases that have lights underneath. Can have raspberry pi light up available moves?
+	-Have area to hold phones that will have an app that accompanies the game.
+	-Expandable boards that attach to each other. Phone holder attaches to any of these
+	-Pieces that can go on certain terrain should be able to go onto them. E.g. infantry should be able to fit into forest and mountain pieces, tanks can not.	
+	-Pieces are either magnetized or snap-in
+
+App stuff:
+  -Ultimate charge
+  -Each character's health?
+  -Battle calculations
+  -Generate map layouts
+
+Pieces:
+ Generally: Have something on them to indicate health (1-10 or 1-5 if I can't get that to work)
+
+ Character pieces:
+ - Infantry (upgradeable so can have more than one person on it?)
+	- $1000
+ - Jeeps
+	- Strong against infantry, weak against tanks
+	- $3000
+ - Tanks
+	- Strong against infantry/tanks, weak against bombers
+	- $6000
+ - Bombers
+	- Strong against everything except jets (expensive)
+	- Weak against anti-aircraft
+	- $10,000
+ - Jets
+	- Strong against bombers, medium vs others, weak against anti-aircraft
+	- $9,000
+ - Anti-aircraft
+	- Strong against aircraft, weak against jeeps/infantry
+	- $5000
+ 
+ Terrain:
+ - Grass
+ - Concrete
+ - Desert
+ - Mountains
+ - Forest
+ - Bases
+
+Printing:
+  - Clear filament would be cool so can have led lights underneath
+  - Bombers and jets should be on springs so they're elevated
