@@ -5,17 +5,26 @@ General Ideas:
 	-Ideally print clear bases that have lights underneath. Can have raspberry pi light up available moves?
 	-Have area to hold phones that will have an app that accompanies the game.
 	-Expandable boards that attach to each other. Phone holder attaches to any of these
-	-Pieces that can go on certain terrain should be able to go onto them. E.g. infantry should be able to fit into forest and mountain pieces, tanks can not.	
+	-Pieces that can go on certain terrain should be able to go onto them. E.g. infantry should be able to fit into forest and mountain pieces, tanks can not.
 	-Pieces are either magnetized or snap-in
+	-I think the characters should be separate from the tiles, and they should have a pole underneath them with the magnet in it. The pole can vary in length
+	 such that certain pieces won't fit on certain terrain. This way it's easier to move pieces around on the board. Then can also have static data on each tile
+	 indicating the terrain cost and perhaps the health of the character on that tile. (Or ideally find a way to store that characters health on the character
+	 itself).
+	-Have base pieces that can go over other pieces. Thought is that if you have money, you can spend an infantry's turn to build a base.
+	-Pick up one-time usable items on the map? E.g. ammo, health, bombs
 
 App stuff:
   -Ultimate charge
   -Each character's health?
   -Battle calculations
   -Generate map layouts
+  -Keep track of money generation / expenditures
 
 Pieces:
- Generally: Have something on them to indicate health (1-10 or 1-5 if I can't get that to work)
+ Generally: 
+	-Have something on them to indicate health (1-10 or 1-5 if I can't get that to work). Maybe a slider along the side of the piece
+	-Have ammo?
 
  Character pieces:
  - Infantry (upgradeable so can have more than one person on it?)
