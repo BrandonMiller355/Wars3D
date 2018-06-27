@@ -13,6 +13,7 @@ General Ideas:
 	 itself).
 	-Have base pieces that can go over other pieces. Thought is that if you have money, you can spend an infantry's turn to build a base.
 	-Pick up one-time usable items on the map? E.g. ammo, health, bombs
+	-Limit ammo to just 3 turns? Maybe have buttons pop-up that can be depressed each turn you shoot. Would probably need whole tile pieces to move in this case.
 
 App stuff:
   -Ultimate charge
