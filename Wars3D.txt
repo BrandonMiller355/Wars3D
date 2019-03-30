@@ -56,5 +56,5 @@ Pieces:
  - Bases
 
 Printing:
-  - Clear filament would be cool so can have led lights underneath
+  - Clear filament would be cool so can have led lights underneath. Raspberry pi or arduino to calculate which lights should light up.
   - Bombers and jets should be on springs so they're elevated
