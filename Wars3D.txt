@@ -64,3 +64,4 @@ TODO:
   - Finish designing pieces
   - Make mountain pieces taller
   - Assign range to pieces and tiles
+  - Need to tweak the basepiece_mid to fit better into the basepiece_bottom
